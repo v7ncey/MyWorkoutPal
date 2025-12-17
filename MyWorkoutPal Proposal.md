@@ -1,22 +1,28 @@
 MyWorkoutPal
+
 Team Members: Jordan, Alex, Vince Category: Healthcare / Fitness App
 
-1. PROBLEM STATEMENT 
+1. PROBLEM STATEMENT:
+   
 Many beginner-to-intermediate gym-goers want to work out consistently but struggle to know how to structure their routine—what muscles to train, how often to rest, and what to do on a given day. This uncertainty leads to wasted time, poor recovery, and eventual loss of motivation. MyWorkoutPal addresses this problem by generating a clear, personalized workout plan without requiring a personal trainer.
 
-2. SOLUTION 
+3. SOLUTION:
+   
 MyWorkoutPal is a Java-based MVP workout generator that creates a personalized training plan from a short user questionnaire. Users input basic information such as age, weight, fitness goals, and desired workout frequency. The app automatically generates a weekly workout schedule with properly placed rest days, determines the correct workout for the current day using the system date and time, and provides warm-ups, muscle targets, and hydration guidance. A premium waitlist feature introduces future advanced personalization and analytics.
 
-3. TARGET MARKET 
+5. TARGET MARKET:
+   
 Beginner and intermediate fitness users, students, and busy individuals who want structure and clarity without hiring a coach. The target market includes U.S. gym members as well as home-gym and casual fitness users seeking guided routines.
 
-4. WHY IT’S VALUABLE 
+7. WHY IT’S VALUABLE :
+   
 MyWorkoutPal eliminates the common friction point of “not knowing what to do today” by delivering a day-specific workout with rest-day awareness. This increases workout confidence, improves consistency, and encourages long-term fitness adherence.
 
-5. HOW YOU’LL MAKE MONEY 
+9. HOW YOU’LL MAKE MONEY:
+    
 The app uses a freemium model: core workout generation is free, while a premium subscription unlocks advanced personalization, analytics, unlimited workout history, and access to live Pilates, Barre, HIIT, and Zumba classes with real instructors. Pricing and structure are benchmarked against competitors such as Fitbod and MyFitnessPal.
 
-6. MVP FEATURES
+11. MVP FEATURES
 * User intake (age, weight, email with validation, goals)
 * Weekly workout schedule 
 * Warm-ups and dynamic stretches before workouts
