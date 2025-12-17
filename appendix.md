@@ -1,6 +1,6 @@
 . TEAM CONTRIBUTION  
 Jordan \- Designed initial user input structure (weight, age, email, goals), created email validation loop, and handled user info collection.  
-Alex \- Designed initial user input structure (weight, age, email, goals), created email validation loop, and handled user info collection.  
+Alex \- Developed weekly schedule logic, including proper insertion of rest days and automatic determination of today’s workout and next workout day.
 Vince \- Developed weekly schedule logic, including proper insertion of rest days and automatic determination of today’s workout and next workout day.  
 All \- Implemented exercises, warm-ups, water intake calculation, premium waitlist feature, fake analytics output, and final output formatting.  
 2\. JAVA CONCEPTS APPLIED
